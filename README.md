@@ -12,3 +12,15 @@ Features - <br>
 
 This app is created using the Firebase Machine Learning Kit.
 
+Examples:
+Document upload: <br>
+![alt text](https://github.com/pixiedust18/PicToText/blob/master/screenshots/Res2.png)
+![alt text](https://github.com/pixiedust18/PicToText/blob/master/screenshots/Res3.png)
+
+Results: <br>
+![alt text](https://github.com/pixiedust18/PicToText/blob/master/screenshots/Res4.png)
+
+Blurry photo example & Result: <br>
+![alt text](https://github.com/pixiedust18/PicToText/blob/master/screenshots/Res6.png)
+![alt text](https://github.com/pixiedust18/PicToText/blob/master/screenshots/Res7.png)
+
